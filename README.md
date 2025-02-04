@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <div align="center">
     <a href="#" target="_blank"><img width="99" height="72" alt="PHP 8x" src="./media/langs/php.svg"></a>
     <a href="#" target="_blank"><img width="63" height="auto" alt="React Native" src="./media/langs/cpp.svg"></a>
+    <a href="#" target="_blank"><img width="63" height="63" alt="Rust" src="./media/langs/rust.svg?v=2"></a>
     <a href="#" target="_blank"><img width="63" height="auto" alt="React Native" src="./media/langs/cs.svg"></a>
 </div>
 
