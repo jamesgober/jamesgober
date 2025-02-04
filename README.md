@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 <div align="center">
     <a href="#" title="PHP 8x" target="_blank"><img width="90" height="81" alt="PHP 8x" src="./media/langs/php.svg"></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="#" title="PHP 8x" target="_blank"><img width="90" height="81" alt="I=Python" src="./media/langs/python.svg"></a>
+    <a href="#" title="Python" target="_blank"><img width="90" height="auto" alt="Python" src="./media/langs/python.svg"></a>
+    &nbsp;&nbsp;&nbsp;
     <a href="#" title="Nodejs" target="_blank"><img width="120" height="auto" alt="Nodejs" src="./media/langs/nodejs.svg"></a>
 
 </div>
