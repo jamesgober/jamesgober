@@ -29,10 +29,17 @@ Here are some ideas to get you started:
 &nbsp;
 
 <div align="center">
-    <a href="#" target="_blank"><img width="81" height="63" alt="PHP 8x" src="./media/langs/php.svg"></a>
-    <a href="#" target="_blank"><img width="63" height="auto" alt="React Native" src="./media/langs/react-native.svg"></a>
+    <a href="#" target="_blank"><img width="99" height="72" alt="PHP 8x" src="./media/langs/php.svg"></a>
+    <a href="#" target="_blank"><img width="63" height="auto" alt="React Native" src="./media/langs/cpp.svg"></a>
+    <a href="#" target="_blank"><img width="63" height="auto" alt="React Native" src="./media/langs/cs.svg"></a>
 </div>
 
+&nbsp;
+
+<div align="center">
+    <a href="#" target="_blank"><img width="63" height="auto" alt="React Native" src="./media/langs/react-native.svg"></a>
+    <a href="#" target="_blank"><img width="72" height="auto" alt="React Native" src="./media/langs/js.svg"></a>
+</div>
 &nbsp;
 
 &nbsp;
