@@ -26,31 +26,71 @@ Here are some ideas to get you started:
 
 &nbsp;
 
+<div align="center">
+    <img width="54" height="54" alt="Technology Stack" src="media/icons/stack.svg">
+    &nbsp;&nbsp;
+    <img width="54" height="54" alt="Bug" src="media/icons/bug.svg">
+    &nbsp;&nbsp;
+    <img width="54" height="54" alt="Contributer" src="media/icons/contribute.svg">
+    &nbsp;&nbsp;
+    <img width="54" height="54" alt="Push Pin Stack" src="media/icons/push-pin.svg">
+    &nbsp;&nbsp;
+    <img width="54" height="54" alt="Stopwatch" src="media/icons/stopwatch.svg">
+    &nbsp;&nbsp;
+    <img width="54" height="54" alt="Speedometer" src="media/icons/speedometer.svg">
+    &nbsp;&nbsp;
+    <img width="54" height="54" alt="Security Shield" src="media/icons/shield.svg">
+    &nbsp;&nbsp;
+    <img width="54" height="54" alt="Activity Monitor" src="media/icons/activity.svg">
+    &nbsp;&nbsp;
+    <img width="54" height="54" alt="Lightning" src="media/icons/lightning.svg">
+    &nbsp;&nbsp;
+    <img width="54" height="54" alt="CPU" src="media/icons/cpu.svg">
+    &nbsp;&nbsp;
+    <img width="54" height="54" alt="Heartbeat Monitor" src="media/icons/heartbeat.svg"></div>
+
 &nbsp;
 
 <div align="center">
-    <a href="#" title="PHP 8x" target="_blank"><img width="90" height="81" alt="PHP 8x" src="./media/langs/php.svg"></a>
+    <h2>BACKEND STACK</h2>
+    <a href="#" title="PHP 8x" target="_blank"><img width="108" height="90" alt="PHP 8x" src="./media/langs/php.svg"></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="#" title="Python" target="_blank"><img width="90" height="auto" alt="Python" src="./media/langs/python.svg?v=1"></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="#" title="Nodejs" target="_blank"><img width="120" height="auto" alt="Nodejs" src="./media/langs/nodejs.svg"></a>
-
+    <a href="#" title="Python" target="_blank"><img width="72" height="auto" alt="Python" src="./media/langs/python.svg"></a>
+    &nbsp;&nbsp;
+    <a href="#" title="Nodejs" target="_blank"><img width="130" height="auto" alt="Nodejs" src="./media/langs/nodejs.svg"></a>
 </div>
+
+&nbsp;
 
 <div align="center">
     <a href="#" title="C++" target="_blank"><img width="72" height="auto" alt="React Native" src="./media/langs/cpp.svg"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;
     <a href="#" title="Rust" target="_blank"><img width="81" height="auto" alt="Rust" src="./media/langs/rust.svg"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
     <a href="#" title="C#" target="_blank"><img width="72" height="auto" alt="React Native" src="./media/langs/cs.svg"></a>
 </div>
 
 &nbsp;
 
 <div align="center">
+    <h2>FRONTEND STACK</h2>
+    <a href="#" title="HTML 5" target="_blank"><img width="81" height="auto" alt="HTML 5" src="./media/langs/html.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="#" target="_blank"><img width="72" height="auto" alt="JavaScript" src="./media/langs/js.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="#" title="CSS" target="_blank"><img width="72" height="auto" alt="CSS 3" src="./media/langs/css.svg"></a>
+</div>
+
+&nbsp;
+
+<div align="center">
+    <b>frontend development stack</b>
+    <br>
     <a href="#" target="_blank"><img width="63" height="auto" alt="React Native" src="./media/langs/react-native.svg"></a>
     <a href="#" target="_blank"><img width="72" height="auto" alt="React Native" src="./media/langs/js.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
 &nbsp;
 
 &nbsp;
