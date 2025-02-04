@@ -25,4 +25,19 @@ Here are some ideas to get you started:
 
 &nbsp;
 
-<img width="27" height="27" alt="James Gober CodePen Profile" src="./media/social/codepen.svg">
+<div align="center">
+    <a href="https://x.com/jamesgober" target="_blank">
+        <img width="23" height="23" alt="James Gober on X.com" src="./media/social/x.svg"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/jamesgober" target="_blank">
+        <img width="27" height="27" alt="James Gober on GitHub" src="./media/social/github.svg"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://codepen.io/jamesgober" target="_blank">
+        <img width="26" height="26" alt="James Gober on CodePen" src="./media/social/codepen.svg?"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/jamesgober" target="_blank">
+        <img width="25" height="25" alt="James Gober on LinkedIn" src="./media/social/linkedin.svg"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/jamesgober" target="_blank">
+        <img width="23" height="23" alt="James Gober on Instagram" src="./media/social/instagram.svg"></a>
+</div>
