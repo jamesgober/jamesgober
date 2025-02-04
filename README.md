@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+&nbsp;
+
+<img width="27" height="27" alt="James Gober CodePen Profile" src="./media/social/codepen.svg">
