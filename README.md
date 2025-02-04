@@ -29,10 +29,20 @@ Here are some ideas to get you started:
 &nbsp;
 
 <div align="center">
-    <a href="#" target="_blank"><img width="99" height="72" alt="PHP 8x" src="./media/langs/php.svg"></a>
-    <a href="#" target="_blank"><img width="63" height="auto" alt="React Native" src="./media/langs/cpp.svg"></a>
-    <a href="#" target="_blank"><img width="72" height="auto" alt="Rust" src="./media/langs/rust.svg"></a>
-    <a href="#" target="_blank"><img width="63" height="auto" alt="React Native" src="./media/langs/cs.svg"></a>
+    <a href="#" target="_blank"><img width="90" height="81" alt="PHP 8x" src="./media/langs/php.svg"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="#" target="_blank"><img width="120" height="auto" alt="Nodejs" src="./media/langs/nodejs.svg"></a>
+
+</div>
+
+&nbsp;
+
+<div align="center">
+    <a href="#" title="C++" target="_blank"><img width="72" height="auto" alt="React Native" src="./media/langs/cpp.svg"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="#" target="_blank"><img width="81" height="auto" alt="Rust" src="./media/langs/rust.svg"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="#" target="_blank"><img width="72" height="auto" alt="React Native" src="./media/langs/cs.svg"></a>
 </div>
 
 &nbsp;
