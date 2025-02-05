@@ -32,65 +32,44 @@ Here are some ideas to get you started:
 &nbsp;
 
 <div align="center">
-    <h2>BACKEND STACK</h2>
-    &nbsp;&nbsp;
-    <a href="#" title="PHP 8x" target="_blank"><img width="72" height="63" alt="PHP 8x" src="./media/langs/php.svg"></a>
-    &nbsp;&nbsp;
-    <a href="#" title="Go" target="_blank"><img width="81" height="63" alt="Go" src="./media/langs/go.svg"></a>
-    &nbsp;&nbsp;
-    <a href="#" title="Nodejs" target="_blank"><img width="100" height="auto" alt="Nodejs" src="./media/langs/nodejs.svg"></a>
-    &nbsp;&nbsp;
-    <br><br>
+    <h2>
+        <strong>FULLSTACK</strong>
+        <br>
+        <sup><sub>BACKEND DEVELOPMENT</sub></sup>
+    </h2>
     &nbsp;&nbsp;
     <a href="#" title="C++" target="_blank"><img width="54" height="81" alt="C++" src="./media/langs/cpp.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="#" title="Crystal" target="_blank"><img width="90" height="81" alt="Crystal" src="./media/langs/crystal.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="#" title="C-Sharp" target="_blank"><img width="54" height="81" alt="C-Sharp" src="./media/langs/cs.svg"></a>
     &nbsp;&nbsp;
     <br><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="#" title="PHP 8x" target="_blank"><img width="72" height="63" alt="PHP 8x" src="./media/langs/php.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="#" title="Go" target="_blank"><img width="81" height="72" alt="Go" src="./media/langs/go.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="#" title="Nodejs" target="_blank"><img width="108" height="auto" alt="Nodejs" src="./media/langs/nodejs.svg"></a>
     &nbsp;&nbsp;
+    <br><br>
+    &nbsp;&nbsp;
+    <a href="#" title="Python" target="_blank"><img width="63" height="auto" alt="Python" src="./media/langs/python.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="#" title="Elixir" target="_blank"><img width="63" height="auto" alt="Elixir" src="./media/langs/elixir.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="#" title="Rust" target="_blank"><img width="63" height="auto" alt="Rust" src="./media/langs/rust.svg"></a>
     &nbsp;&nbsp;
-    <a href="#" title="Go" target="_blank"><img width="81" height="63" alt="Go" src="./media/langs/go.svg"></a>
-    &nbsp;&nbsp;
-    <a href="#" title="Elixir" target="_blank"><img width="63" height="auto" alt="Elixir" src="./media/langs/elixir.svg"></a>
-    &nbsp;&nbsp;
 </div>
 
 &nbsp;
 
 <div align="center">
-    <h2>BACKEND STACK</h2>
-    &nbsp;&nbsp;&nbsp;&nbsp&nbsp;
-    <a href="#" title="PHP 8x" target="_blank"><img width="108" height="90" alt="PHP 8x" src="./media/langs/php.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp&nbsp;
-    <a href="#" title="Go" target="_blank"><img width="108" height="90" alt="Go" src="./media/langs/go.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
-    <a href="#" title="Crystal" target="_blank"><img width="100" height="110" alt="Crystal" src="./media/langs/crystal.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;
-    <a href="#" title="Rust" target="_blank"><img width="81" height="auto" alt="Rust" src="./media/langs/rust.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp&nbsp;
-    <a href="#" title="Nodejs" target="_blank"><img width="150" height="auto" alt="Nodejs" src="./media/langs/nodejs.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp&nbsp;
-    <br><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;
-    <a href="#" title="C++" target="_blank"><img width="72" height="auto" alt="React Native" src="./media/langs/cpp.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;
-    <a href="#" title="Elixir" target="_blank"><img width="81" height="auto" alt="Elixir" src="./media/langs/elixir.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;
-    <a href="#" title="Cold Fusion Markup Language" target="_blank"><img width="72" height="auto" alt="Cold Fusion Markup Language" src="https://github.com/jamesgober/jamesgober/blob/ec07737c626ef7393ed029812885433962f1e060/media/langs/coldfusion.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;
-    <a href="#" title="Python" target="_blank"><img width="72" height="auto" alt="Python" src="./media/langs/python.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp&nbsp;
-    <a href="#" title="C#" target="_blank"><img width="72" height="auto" alt="React Native" src="./media/langs/cs.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;
-</div>
-
-&nbsp;
-
-<div align="center">
-    <h2>FRONTEND STACK</h2>
+    <h2>
+        <strong>FULLSTACK</strong>
+        <br>
+        <sup><sub>FRONTEND DEVELOPMENT</sub></sup>
+    </h2>
     &nbsp;&nbsp;&nbsp;
     <a href="#" title="HTML 5" target="_blank"><img width="81" height="auto" alt="HTML 5" src="./media/langs/html.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -126,22 +105,3 @@ Here are some ideas to get you started:
     <a href="https://instagram.com/jamesgober" target="_blank">
         <img width="23" height="23" alt="James Gober on Instagram" src="./media/social/instagram.svg"></a>
 </div>
-
-&nbsp;
-
-<details>
-  <summary><b>Can I use custom Icons?</b></summary>
-  Yes.  Just use <code>&lt;Icon className='my-icon' /&gt;</code> instead of <code>&lt;Icon name='my-icon' /&gt;</code>.  See https://github.com/Semantic-Org/Semantic-UI-React/issues/931#issuecomment-263643210 for detailed info and examples.
-</details>
-
-<details>
-  <summary><b>How do I setup CSS?</b></summary>
-
-There are several options. Refer to our doc on [CSS Usage][23].
-
-</details>
-
-<details>
-  <summary><b>Can I use a custom CSS theme?</b></summary>
-  Yes.  Semantic UI React includes components that render valid Semantic UI HTML, no CSS is included.  This allows you to load any Semantic UI CSS theme on top of your Semantic UI React app.
-</details>
