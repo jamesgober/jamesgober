@@ -77,7 +77,7 @@ Here are some ideas to get you started:
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;
     <a href="#" title="Elixir" target="_blank"><img width="81" height="auto" alt="Elixir" src="./media/langs/elixir.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;
-    <a href="#" title="Cold Fusion Markup Language" target="_blank"><img width="81" height="auto" alt="Cold Fusion Markup Language" src="./media/langs/coldfusion.svg"></a>
+    <a href="#" title="Cold Fusion Markup Language" target="_blank"><img width="81" height="auto" alt="Cold Fusion Markup Language" src="https://github.com/jamesgober/jamesgober/blob/ec07737c626ef7393ed029812885433962f1e060/media/langs/coldfusion.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;
     <a href="#" title="Python" target="_blank"><img width="72" height="auto" alt="Python" src="./media/langs/python.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
