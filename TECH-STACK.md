@@ -1,16 +1,12 @@
 <h1 align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./media/jamesgober-logo-dark.png">
-        <img width="81" height="81" alt="Official brand mark and logo of James Gober. Image shows JG stylish initials encased in a hexagon outline." src="./media/jamesgober-logo.png">
+        <img width="72" height="72" alt="Official brand mark and logo of James Gober. Image shows JG stylish initials encased in a hexagon outline." src="./media/jamesgober-logo.png">
     </picture>
     <br>
-    <b>JAMES GOBER</b>
+    <strong>FULLSTACK</strong>
     <br>
-    <sup>
-      <small><small>
-        FULLSTACK TACTICAL LOADOUT
-      </small></small>
-    </sup>
+    <sup><sub>TACTICAL LOADOUT</sub></sup>
 </h1>
 
 This is my carefully curated arsenal of languages, technologies, tools, and frameworks each 
@@ -33,56 +29,62 @@ Here are some ideas to get you started:
 
 &nbsp;
 
+&nbsp;
+
 <div align="center">
-    <img width="54" height="54" alt="Technology Stack" src="media/icons/stack.svg">
+    <h2>BACKEND STACK</h2>
     &nbsp;&nbsp;
-    <img width="54" height="54" alt="Bug" src="media/icons/bug.svg">
+    <a href="#" title="PHP 8x" target="_blank"><img width="72" height="63" alt="PHP 8x" src="./media/langs/php.svg"></a>
     &nbsp;&nbsp;
-    <img width="54" height="54" alt="Contributer" src="media/icons/contribute.svg">
+    <a href="#" title="Go" target="_blank"><img width="81" height="63" alt="Go" src="./media/langs/go.svg"></a>
     &nbsp;&nbsp;
-    <img width="54" height="54" alt="Push Pin Stack" src="media/icons/push-pin.svg">
+    <a href="#" title="Nodejs" target="_blank"><img width="100" height="auto" alt="Nodejs" src="./media/langs/nodejs.svg"></a>
     &nbsp;&nbsp;
-    <img width="54" height="54" alt="Stopwatch" src="media/icons/stopwatch.svg">
+    <br><br>
     &nbsp;&nbsp;
-    <img width="54" height="54" alt="Speedometer" src="media/icons/speedometer.svg">
+    <a href="#" title="C++" target="_blank"><img width="54" height="81" alt="C++" src="./media/langs/cpp.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="#" title="Crystal" target="_blank"><img width="90" height="81" alt="Crystal" src="./media/langs/crystal.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="#" title="C-Sharp" target="_blank"><img width="54" height="81" alt="C-Sharp" src="./media/langs/cs.svg"></a>
     &nbsp;&nbsp;
-    <img width="54" height="54" alt="Security Shield" src="media/icons/shield.svg">
+    <br><br>
     &nbsp;&nbsp;
-    <img width="54" height="54" alt="Activity Monitor" src="media/icons/activity.svg">
+    <a href="#" title="Rust" target="_blank"><img width="63" height="auto" alt="Rust" src="./media/langs/rust.svg"></a>
     &nbsp;&nbsp;
-    <img width="54" height="54" alt="Lightning" src="media/icons/lightning.svg">
+    <a href="#" title="Go" target="_blank"><img width="81" height="63" alt="Go" src="./media/langs/go.svg"></a>
     &nbsp;&nbsp;
-    <img width="54" height="54" alt="CPU" src="media/icons/cpu.svg">
+    <a href="#" title="Elixir" target="_blank"><img width="63" height="auto" alt="Elixir" src="./media/langs/elixir.svg"></a>
     &nbsp;&nbsp;
-    <img width="54" height="54" alt="Heartbeat Monitor" src="media/icons/heartbeat.svg"></div>
+</div>
 
 &nbsp;
 
 <div align="center">
     <h2>BACKEND STACK</h2>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#" title="PHP 8x" target="_blank"><img width="108" height="90" alt="PHP 8x" src="./media/langs/php.svg"></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="#" title="Go" target="_blank"><img width="130" height="90" alt="Go" src="./media/langs/go.svg"></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="#" title="Crystal" target="_blank"><img width="90" height="100" alt="Crystal" src="./media/langs/crystal.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp&nbsp;
+    <a href="#" title="PHP 8x" target="_blank"><img width="108" height="90" alt="PHP 8x" src="./media/langs/php.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp&nbsp;
+    <a href="#" title="Go" target="_blank"><img width="108" height="90" alt="Go" src="./media/langs/go.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
+    <a href="#" title="Crystal" target="_blank"><img width="100" height="110" alt="Crystal" src="./media/langs/crystal.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;
     <a href="#" title="Rust" target="_blank"><img width="81" height="auto" alt="Rust" src="./media/langs/rust.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp&nbsp;
     <a href="#" title="Nodejs" target="_blank"><img width="150" height="auto" alt="Nodejs" src="./media/langs/nodejs.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#" title="C++" target="_blank"><img width="72" height="auto" alt="React Native" src="./media/langs/cpp.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp&nbsp;
+    <br><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;
+    <a href="#" title="C++" target="_blank"><img width="72" height="auto" alt="React Native" src="./media/langs/cpp.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;
     <a href="#" title="Elixir" target="_blank"><img width="81" height="auto" alt="Elixir" src="./media/langs/elixir.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;
-    <a href="#" title="Cold Fusion Markup Language" target="_blank"><img width="81" height="auto" alt="Cold Fusion Markup Language" src="https://github.com/jamesgober/jamesgober/blob/ec07737c626ef7393ed029812885433962f1e060/media/langs/coldfusion.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;
+    <a href="#" title="Cold Fusion Markup Language" target="_blank"><img width="72" height="auto" alt="Cold Fusion Markup Language" src="https://github.com/jamesgober/jamesgober/blob/ec07737c626ef7393ed029812885433962f1e060/media/langs/coldfusion.svg"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;
     <a href="#" title="Python" target="_blank"><img width="72" height="auto" alt="Python" src="./media/langs/python.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp&nbsp;
     <a href="#" title="C#" target="_blank"><img width="72" height="auto" alt="React Native" src="./media/langs/cs.svg"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;
 </div>
 
 &nbsp;
