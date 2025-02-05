@@ -104,6 +104,24 @@ Here are some ideas to get you started:
     <a href="#" target="_blank"><img width="72" height="auto" alt="React Native" src="../media/langs/react-native.svg"></a>
 </div>
 
+
+&nbsp;
+
+<details>
+  <summary><b>Some Question Heading?</b></summary>
+    Lorem ipsum dolor sit amet, <code>consectetur adipiscing</code> elit. Sed rutrum enim a mauris consequat feugiat. Aenean dictum leo sit amet orci rhoncus, eu condimentum risus semper. Donec nisl orci, iaculis nec rhoncus et, accumsan vitae dui.
+</details>
+
+<details>
+  <summary><b>How do I setup CSS?</b></summary>
+    Quisque maximus bibendum pretium. Cras non malesuada est. Proin consectetur nisi nec faucibus mattis. Ut id ligula nec lacus porttitor posuere consequat sit amet justo. Aenean tempus egestas nisi vitae congue. In sit amet congue odio.
+</details>
+
+<details>
+  <summary><b>Lorem ipsum?</b></summary>
+  Yes. Lorem ipsum dolor sit amet! <b>Sed rutrum</b> enim a <a href="https://jamesgober.com">mauris consequat</a> feugiat. Aenean dictum leo sit amet orci rhoncus, eu condimentum risus semper. Donec nisl orci, iaculis nec rhoncus et, accumsan vitae dui.
+</details>
+
 &nbsp;
 
 &nbsp;
@@ -153,4 +171,3 @@ Here are some ideas to get you started:
       <a href="https://dribbble.com/jamesgober.com" target="_blank">
         <img width="23" height="23" alt="James Gober on Dribbble" src="../media/social/dribbble.svg"></a>
 </div>
-
