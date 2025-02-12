@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-    <h2>JAMES GOBER</h2>
+    <!--<h2>JAMES GOBER</h2>-->
     <div>
         <a href="https://x.com/jamesgober" target="_blank"><img width="23" height="23" alt="James Gober on X.com" src="./media/social/x.svg"></a>
         &nbsp;&nbsp;&nbsp;
