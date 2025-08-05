@@ -1,0 +1,20 @@
+# Development
+/dev
+
+# Dependencies
+/node_modules/
+/vendor/
+
+# Editor & OS Junk
+/.vscode
+.DS_Store
+.Spotlight-V100
+.Trash-*
+.Trashes
+.directory
+.LSOverride
+.AppleDouble
+Desktop.ini
+ehthumbs.db
+Thumbs.db
+$RECYCLE.BIN/
