@@ -1,0 +1,63 @@
+name: Question / Help
+description: Ask a question or request guidance
+title: "[Question]: "
+labels: ["question", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For quick questions, consider checking the docs or
+        asking on Discord first — you'll get a faster answer.
+
+  - type: input
+    id: question
+    attributes:
+      label: Question
+      description: Summarize your question in one sentence
+    validations:
+      required: true
+
+  - type: textarea
+    id: goal
+    attributes:
+      label: What are you trying to do?
+      description: Describe your goal, not just the error
+      placeholder: "I'm trying to..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried?
+      description: Docs read, approaches attempted, errors seen
+      placeholder: "I read... and tried... but got..."
+
+  - type: textarea
+    id: code
+    attributes:
+      label: Relevant code or config
+      render: yaml
+      placeholder: "# paste relevant snippet here"
+
+  - type: dropdown
+    id: topic
+    attributes:
+      label: Topic
+      options:
+        - Setup / installation
+        - Configuration
+        - Usage / how-to
+        - Integrations
+        - Performance
+        - Other
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      options:
+        - label: I checked the docs and didn't find an answer
+          required: true
+        - label: I searched existing issues and discussions
+          required: true

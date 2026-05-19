@@ -1,0 +1,64 @@
+name: Feature Request
+description: Suggest an idea or enhancement
+title: "[Feature]: "
+labels: ["enhancement", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting, check the roadmap and existing
+        feature requests to avoid duplicates.
+
+  - type: input
+    id: summary
+    attributes:
+      label: Summary
+      description: A short, clear title for the feature
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem this solves
+      description: What are you trying to do? What's frustrating or missing?
+      placeholder: "I'm always having to... / There's no way to..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: Describe the feature. Mockups or examples welcome.
+      placeholder: "It would be great if..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      placeholder: "I tried... but it doesn't work because..."
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      description: Which part of the project does this relate to?
+      options:
+        - UI / frontend
+        - API / backend
+        - CLI
+        - Docs
+        - Performance
+        - Other
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and this hasn't been requested
+          required: true
+        - label: I'm willing to help implement this if guidance is provided
